@@ -1,1 +1,2 @@
 # FProgjar
+Ini redme
